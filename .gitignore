@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift
+*.swiftdoc
+*.swiftmodule
+*.swiftinterface
+**/.build/
+**/Packages/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
